@@ -9,5 +9,5 @@ public class Carro {
         this.modelo = modelo;
     }
 
-    // Getters y setters (puedes generarlos automáticamente en IntelliJ IDEA)
+   
 }
